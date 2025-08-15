@@ -1,1 +1,3 @@
 # configurations-api-poc
+
+# Purpose
